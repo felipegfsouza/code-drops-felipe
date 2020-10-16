@@ -7,7 +7,7 @@
  
  
  
- O tema deste video é: __Construir um robô qu lê as mensagens enviadas pelo email .__
+ O tema deste video é: __Construir um robô que lê as mensagens enviadas pelo email .__
  
  ---
  ## Dia 00
