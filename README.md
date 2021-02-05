@@ -1,9 +1,13 @@
 # code-drops-felipe
- Projeto feito no evento da RocketSeat para criar um aplicativo coletivamente dentro de uma semana.
+ Projeto feito em um vídeo da RocketSeat para criar um robô que conseguisse ler emails.
  
- Neste repositorio você pode encontrar meu projeto e algumas notas durante o ocorrer da workshop!
+ Neste repositorio você pode encontrar meu projeto e algumas modificações!
  
- O tema desta video é: __Construir um robô qu lê as mensagens enviadas pelo email .__
+ link de refrencia:https://youtu.be/XlNLjG2c9uM
+ 
+ 
+ 
+ O tema deste video é: __Construir um robô que lê as mensagens enviadas pelo email .__
  
  ---
  ## Dia 00
