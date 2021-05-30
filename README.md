@@ -6,6 +6,9 @@
  link de refrencia:https://youtu.be/XlNLjG2c9uM
  
  
+  link para acessar aplicação:https://lepramime61dc8.netlify.app/
+ 
+ 
  
  O tema deste video é: __Construir um robô que lê as mensagens enviadas pelo email .__
  
