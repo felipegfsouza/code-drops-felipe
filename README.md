@@ -2,10 +2,8 @@
  Projeto feito em um vídeo da RocketSeat para criar um robô que conseguisse ler emails.
  
  Neste repositorio você pode encontrar meu projeto e algumas modificações!
- 
- link de refrencia:https://youtu.be/XlNLjG2c9uM
- 
- 
+
+  
   link para acessar aplicação:https://lepramime61dc8.netlify.app/
  
  
@@ -22,7 +20,7 @@
  width="400px" title="segundo layout" alt="segundo layout">
  
  
- Neste vídeo aprendemos um pouco sobre o front-end e seus conceitos/aplicações.
+ Neste vídeo https://youtu.be/XlNLjG2c9uM aprendemos um pouco sobre o front-end e seus conceitos/aplicações.
  
  Estudos: HTML; CSS; JS;
  
